@@ -1,0 +1,29 @@
+﻿------------------------------------------
+OXID-MODUL "DELIVERYSET CHECK"
+------------------------------------------
+
+
+Dieses Modul zeigt pro Versandart an, ob ein Fehler bei der Versandart selbst oder bei den
+Zahlarten oder den Versandkostenregeln besteht. Das ist beispielsweise hilfreich bei der 
+Fehlermeldung "keine Versandarten gefunden".
+
+
+Bei Fragen, Kritik bzw. Problemen erreichen Sie uns wie folgt:
+Frank Zunderer
+Waldstr. 22
+82205 Gilching
+Tel.: +49-8105-777250
+e-Mail: info@zunderweb.de
+
+
+
+Installationsvoraussetzungen:
+- OXID eshop ab 4.6.0 
+
+-------------
+1) Kopieren Sie bitte alle vorliegenden Dateien aus dem Verzeichnis 
+   "copy_this" in das Basisverzeichnis des Shops. 
+   Behalten Sie die Verzeichnisstruktur bei!
+
+2) Aktivieren Sie das Modul im Oxid-Backend unter "Erweiterungen/Module".
+

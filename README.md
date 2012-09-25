@@ -1,0 +1,1 @@
+Small Tool that checks deliveryset settings in OXID eShop
