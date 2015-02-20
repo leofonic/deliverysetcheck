@@ -1,0 +1,27 @@
+﻿------------------------------------------
+OXID-MODUL "DELIVERYSET CHECK"
+------------------------------------------
+
+This Module gives information about which part of the triple 
+"Shipping Method/Payment method/Shipping Cost Rule"
+is not valid in case the Shipping method is not displayed.
+
+
+If you have questions or suggestions please contact:
+Frank Zunderer
+Waldstr. 22
+82205 Gilching
+Tel.: +49-8105-777250
+e-Mail: info@zunderweb.de
+
+
+
+Installation requirements:
+- OXID eshop from 4.6.0 
+
+-------------
+1) Copy all files from the directory "copy_this" to the root directory of your shop.
+   Please keep the directory structure!
+
+2) Activate the Module in "Extensions/Modules".
+
