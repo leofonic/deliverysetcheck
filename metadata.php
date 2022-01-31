@@ -1,4 +1,5 @@
 <?php
+$sMetadataVersion = '1.1';
 $aModule = array(
     'id' => 'deliverysetcheck',
     'title'       => 'Zunderweb Deliveryset-Check',
